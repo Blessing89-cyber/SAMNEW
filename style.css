@@ -40,7 +40,6 @@ nav {
 
 .logo {
     width: 140px;
-    background-image:url(image/logonobackground.png);
 }
 
 nav ul li {
@@ -104,9 +103,9 @@ nav ul li a:hover::after {
 
 .header-text p {
     color: whitesmoke;
-    font-size: 20px;
-    margin-top: 10px;
-    margin-left: 60px;
+    font-size: 11px;
+    margin-top: -15px;
+    margin-left: 64px;
 }
 
 /*-------------about----------*/
@@ -509,10 +508,6 @@ nav .fa-solid {
         top: 25px;
         left: 25px;
         cursor: pointer;
-    }
-
-    .research img {
-        
     }
 
     .sub-title {
