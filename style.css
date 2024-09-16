@@ -465,7 +465,7 @@ nav .fa-solid {
         background-position: center;
     }
     .header-text {
-        margin-top: 100%;
+        margin-top: 80%;
         font-size: 16px;
     }
     .header-text h1 {
@@ -482,7 +482,6 @@ nav .fa-solid {
     }
 
     .header-text h1 .cheese {
-        margin-top: 30px;
         font-size: 12px;
         color: #fff;
     }
