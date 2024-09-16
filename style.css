@@ -85,7 +85,7 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-    margin-top: 15%;
+    margin-top: 10%;
     font-size: 30px;
 }
 
@@ -104,6 +104,7 @@ nav ul li a:hover::after {
 .header-text h1 .cheese {
     line-height: 50px;
     font-size: 29px;
+    color: #fff;
 }
 
 .header-text p {
