@@ -101,6 +101,12 @@ nav ul li a:hover::after {
     color:#ff004f;  
 }
 
+.header-text h1 .cheese {
+    background: #fff;
+    line-height: 50px;
+    font-size: 29px;
+}
+
 .header-text p {
     color: whitesmoke;
     font-size: 11px;
