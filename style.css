@@ -472,6 +472,7 @@ nav .fa-solid {
        font-size: 25px;
        line-height: 30px; 
        margin-left: 10px;
+       margin-top: 20px;
     }
 
     .header-text p {
@@ -479,6 +480,13 @@ nav .fa-solid {
         font-size: 5px;
         margin-top: -10px;
     }
+
+    .header-text h1 .cheese {
+        margin-top: 30px;
+        font-size: 12px;
+        color: #fff;
+    }
+    
     nav .fa-regular {
         display: block;
         font-size: 25px;
